@@ -1,1 +1,1 @@
-# nagasaki
+# nagasaki.nikomen
